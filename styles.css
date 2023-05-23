@@ -104,13 +104,11 @@ body {
   
   .contact-info .phone-icon::before {
     content: "\260E"; /* Unicode character for phone icon */
-    font-size: 19px;
     margin-bottom: -1.7px;
   }
   
   .contact-info .email-icon::before {
     content: "\2709"; /* Unicode character for envelope icon */
-    font-size: 31px; /* Adjust the size as needed */
     margin-bottom: 2px;
   }
   
